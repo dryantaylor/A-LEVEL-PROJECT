@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonBattleSimulator", "PokemonBattleSimulator\PokemonBattleSimulator.csproj", "{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TempServerFill|Any CPU = TempServerFill|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C56446-8F65-4A0C-B8E4-BD7366C6B4A2}.TempServerFill|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6002A547-4F71-4A47-93E2-693A307EE0EA}
+	EndGlobalSection
+EndGlobal
