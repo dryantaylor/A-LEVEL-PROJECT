@@ -1,2 +1,2 @@
 # LMCSimulator_Beginner-project
-simulating LMC to learn basic concepts of a language
+My A-Level Computer Science NEA for the accademic year 2021/2022 which received 64/70 marks (A*)
